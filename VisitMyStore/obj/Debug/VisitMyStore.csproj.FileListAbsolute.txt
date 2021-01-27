@@ -1,0 +1,7 @@
+C:\Users\Α\source\repos\Assignment3\VisitMyStore\obj\Debug\VisitMyStore.csprojAssemblyReference.cache
+C:\Users\Α\source\repos\Assignment3\VisitMyStore\obj\Debug\VisitMyStore.csproj.CoreCompileInputs.cache
+C:\Users\Α\source\repos\Assignment3\VisitMyStore\bin\Debug\VisitMyStore.exe.config
+C:\Users\Α\source\repos\Assignment3\VisitMyStore\bin\Debug\VisitMyStore.exe
+C:\Users\Α\source\repos\Assignment3\VisitMyStore\bin\Debug\VisitMyStore.pdb
+C:\Users\Α\source\repos\Assignment3\VisitMyStore\obj\Debug\VisitMyStore.exe
+C:\Users\Α\source\repos\Assignment3\VisitMyStore\obj\Debug\VisitMyStore.pdb

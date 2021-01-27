@@ -1,0 +1,2 @@
+C:\Users\Α\source\repos\Assignment3\VisitStore\obj\Debug\VisitStore.csprojAssemblyReference.cache
+C:\Users\Α\source\repos\Assignment3\VisitStore\obj\Debug\VisitStore.csproj.CoreCompileInputs.cache

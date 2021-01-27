@@ -1,0 +1,11 @@
+C:\Users\Α\source\repos\Assignment3\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+C:\Users\Α\source\repos\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Α\source\repos\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\Α\source\repos\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\Α\source\repos\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\Α\source\repos\Assignment3\Assignment3\bin\Debug\VisitMyStore.exe
+C:\Users\Α\source\repos\Assignment3\Assignment3\bin\Debug\VisitMyStore.pdb
+C:\Users\Α\source\repos\Assignment3\Assignment3\bin\Debug\VisitMyStore.exe.config
+C:\Users\Α\source\repos\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CopyComplete
+C:\Users\Α\source\repos\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\Α\source\repos\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
